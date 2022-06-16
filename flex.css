@@ -34,7 +34,7 @@ img{
     justify-content: space-around;
     background-color: hsl(31, 77%, 52%);
     padding: 40px;
-    height: 50%;
+    height: 60%;
     width: 15vw;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
@@ -45,14 +45,14 @@ img{
 .suv{
     background-color: hsl(184, 100%, 22%);
     padding: 40px;
-    height: 50%;
+    height: 60%;
     width: 15vw;
     
 }
 .luxury{
     background-color: hsl(179, 100%, 13%);
     padding: 40px;
-    height: 50%;
+    height: 60%;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     width: 15vw;
@@ -78,7 +78,7 @@ button{
     border-radius: 20px;
     height: 40px;
     width: 120px;
-    margin-top: 90px;
+   
 }
 .sedan button {
     color:hsl(31, 77%, 52%) ;
